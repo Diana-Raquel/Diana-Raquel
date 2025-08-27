@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,docker,git,github,html,js,linux,mongodb,nextjs,nodejs,react,scss,vite" />
+  <img src="https://skillicons.dev/icons?i=css,git,github,html,js,linux,mongodb,nextjs,nodejs,react,scss,vite" />
 </p>
 
 ---
@@ -41,8 +41,8 @@
 
 | Platform     | Link                                                    |
 | ------------ | ------------------------------------------------------- |
-| 🌍 Website   | [cabrera-dev.com](https://cruzcruzx2-portafolio.vercel.app/)|
+| 🌍 Website   | [cruzcruzx2.com](https://cruzcruzx2-portafolio.vercel.app/)|
 | 💼 Company   | [DigitalDreams](https://digital-dreams.dev)             |
-| 🐙 GitLab    | [@cabrera-evil](https://gitlab.com/Diana-Raquel)        |
-| 🔗 LinkedIn  | [in/cabrera-evil](https://www.linkedin.com/in/diana-cruzx2/) |
+| 🐙 GitLab    | [@Diana-Raquel](https://gitlab.com/Diana-Raquel)        |
+| 🔗 LinkedIn  | [in/diana-cruzx2](https://www.linkedin.com/in/diana-cruzx2/) |
 
